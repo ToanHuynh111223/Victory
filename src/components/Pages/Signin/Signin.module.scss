@@ -1,0 +1,57 @@
+$red-color: #D61C4E;
+$yellow-color: #FEDB39;
+$blue-color: #1CD6CE;
+
+
+
+.container {
+
+    width: 450px;
+    height: 400px;
+    margin: 100px auto;
+    border-radius: 10px;
+    background-color: $red-color;
+}
+
+.form {
+    width: 100%;
+    height: 100%;
+    padding: 40px
+}
+
+.label {
+    color: $yellow-color
+}
+
+.input {
+    margin: 15px 0;
+    width: 100%;
+    padding: 5px;
+    font-size: 0.8rem;
+    outline: none;
+    border: none;
+
+    &::placeholder {
+        /* Mozilla Firefox 4 to 18 */
+        color: #333;
+        opacity: 1;
+    }
+}
+
+.submit {
+    padding: 10px;
+    margin: 70px 0 0;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(254, 219, 57, 0.6);
+    font-size: 0.7rem;
+    font-weight: bold;
+    cursor: pointer;
+
+    float: right;
+
+    &:hover {
+        background-color: $yellow-color;
+    }
+}

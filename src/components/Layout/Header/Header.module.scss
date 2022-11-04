@@ -1,0 +1,46 @@
+$red-color: #D61C4E;
+$yellow-color: #FEDB39;
+$blue-color: #1CD6CE;
+
+.container {
+    width: 100%;
+    border-bottom: 2px solid $red-color;
+    display: flex;
+    justify-content: space-between;
+
+    .logo {
+        font-size: 1.6rem;
+        font-weight: 500;
+        color: $red-color;
+    }
+
+    .user {
+        display: flex;
+
+
+    }
+
+    .sign_in {
+        margin: auto;
+        padding-right: 5px;
+
+        a {
+            color: $red-color;
+            text-decoration: none;
+            font-size: 0.7rem;
+        }
+    }
+
+    .sign_up {
+        margin: auto;
+        padding-left: 5px;
+        border-left: 2px solid $red-color;
+
+        a {
+            color: $red-color;
+            text-decoration: none;
+            font-size: 0.7rem;
+        }
+    }
+
+}
