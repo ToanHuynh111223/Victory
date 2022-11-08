@@ -6,7 +6,7 @@ function Header() {
     return (
         <>
             <div className={clsx(styles.container)}>
-                <div className={clsx(styles.logo)}><i>Victory</i></div>
+                <div className={clsx(styles.logo)}><Link to='/' className={clsx(styles.link)} ><i>Victory</i></Link></div>
 
                 <div className={clsx(styles.user)}>
                     <div className={clsx(styles.sign_in)}>

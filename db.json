@@ -1,0 +1,128 @@
+{
+    "imageNew": [
+        {
+            "id": 1,
+            "title": "hinh1",
+            "src": "imgnews/hinh1.png"
+        },
+        {
+            "id": 2,
+            "title": "hinh2",
+            "src": "imgnews/hinh2.png"
+        },
+        {
+            "id": 3,
+            "title": "hinh3",
+            "src": "imgnews/hinh3.png"
+        },
+        {
+            "id": 4,
+            "title": "hinh4",
+            "src": "imgnews/hinh4.png"
+        },
+        {
+            "id": 5,
+            "title": "hinh5",
+            "src": "imgnews/hinh5.png"
+        },
+        {
+            "id": 6,
+            "title": "hinh6",
+            "src": "imgnews/hinh6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "hinh7",
+            "src": "imgnews/hinh7.png"
+        },
+        {
+            "id": 8,
+            "title": "hinh8",
+            "src": "imgnews/hinh8.png"
+        },
+        {
+            "id": 9,
+            "title": "hinh9",
+            "src": "imgnews/hinh9.png"
+        },
+        {
+            "id": 10,
+            "title": "hinh10",
+            "src": "imgnews/hinh10.png"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung Galaxy Z Flip4 5G",
+            "img": "./imgproduct/samsung-galaxy-z-flip4-5g-128gb-thumb-600x600.jpg",
+            "item": [
+                "Chính 6.7' & Phụ 1.9'",
+                "Full HD+"
+            ],
+            "cost_sale": "23.990.000đ",
+            "percent": "-12%",
+            "cost_current": "20.990.000đ"
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy Z Fold4 5G",
+            "img": "./imgproduct/samsung-galaxy-z-fold4-120822-014401-600x600.jpg",
+            "item": [
+                "Chính 7.6' & Phụ 6.2'",
+                "Quad HD+ (2K+)"
+            ],
+            "cost_sale": "40.990.000đ",
+            "percent": "-7%",
+            "cost_current": "37.990.000đ"
+        },
+        {
+            "id": 3,
+            "name": "Samsung Galaxy S22+ 5G",
+            "img": "./imgproduct/samsung-galaxy-s22-plus-090222-103121-600x600.jpg",
+            "item": [
+                "6.6'",
+                "Full HD+"
+            ],
+            "cost_sale": "25.990.000đ",
+            "percent": "-15%",
+            "cost_current": "21.990.000đ"
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy S22 5G",
+            "img": "./imgproduct/samsung-galaxy-s22-ultra-090222-104147-600x600.jpg",
+            "item": [
+                "6.8'",
+                "Quad HD+ (2K+)"
+            ],
+            "cost_sale": "30.990.000đ",
+            "percent": "-16%",
+            "cost_current": "25.990.000đ"
+        },
+        {
+            "id": 5,
+            "name": "Samsung Galaxy A73 5G",
+            "img": "./imgproduct/samsung-galaxy-a73-1-600x600.jpg",
+            "item": [
+                "6.7'",
+                "Full HD+"
+            ],
+            "cost_sale": "11.990.000đ",
+            "percent": "",
+            "cost_current": "11.690.000đ"
+        },
+        {
+            "id": 6,
+            "name": "Samsung Galaxy A73 5G Awesome Edition",
+            "img": "./imgproduct/samsung-galaxy-a73-5g-pubg-090922-042402-600x600.jpg",
+            "item": [
+                "6.7'",
+                "Full HD+"
+            ],
+            "cost_sale": "12.690.000đ",
+            "percent": "-5%",
+            "cost_current": "11.990.000đ"
+        }
+    ]
+}

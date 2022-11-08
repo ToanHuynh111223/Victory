@@ -9,9 +9,13 @@ $blue-color: #1CD6CE;
     justify-content: space-between;
 
     .logo {
-        font-size: 1.6rem;
-        font-weight: 500;
-        color: $red-color;
+
+        .link {
+            text-decoration: none;
+            font-size: 1.6rem;
+            font-weight: 500;
+            color: $red-color;
+        }
     }
 
     .user {
@@ -21,25 +25,46 @@ $blue-color: #1CD6CE;
     }
 
     .sign_in {
-        margin: auto;
-        padding-right: 5px;
+        margin: auto 10px auto auto;
+        padding: 5px;
 
         a {
             color: $red-color;
             text-decoration: none;
             font-size: 0.7rem;
         }
+
+        &:hover {
+            background-color: $yellow-color;
+            padding: 5px;
+            border-radius: 10px;
+
+
+            a {
+                text-decoration: underline;
+            }
+        }
     }
 
     .sign_up {
         margin: auto;
-        padding-left: 5px;
-        border-left: 2px solid $red-color;
+        padding: 5px;
+
 
         a {
             color: $red-color;
             text-decoration: none;
             font-size: 0.7rem;
+        }
+
+        &:hover {
+            background-color: $yellow-color;
+            padding: 5px;
+            border-radius: 10px;
+
+            a {
+                text-decoration: underline;
+            }
         }
     }
 
