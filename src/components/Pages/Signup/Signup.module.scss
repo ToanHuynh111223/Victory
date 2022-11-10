@@ -3,6 +3,7 @@ $yellow-color: #FEDB39;
 $blue-color: #1CD6CE;
 
 .logo {
+    font-family: 'Fugaz One', cursive;
     position: relative;
     top: 40px;
     font-size: 1.6rem;
@@ -19,7 +20,7 @@ $blue-color: #1CD6CE;
     height: 600px;
     margin: 60px auto;
     border-radius: 10px;
-    background-color: $red-color;
+    background-color: #497174;
 
     .wrapper_orientation {
         display: flex;

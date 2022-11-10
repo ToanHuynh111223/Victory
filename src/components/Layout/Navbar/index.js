@@ -10,12 +10,23 @@ function Navbar() {
             <ul className={clsx(styles.list)}>
                 <Link to="/" style={{ textDecoration: "none" }}>
 
-                    <li className={clsx(styles.item, styles.active)}>All</li>
+                    <li className={clsx(styles.item)}>All</li>
                 </Link>
-                <li className={clsx(styles.item)}>Mobile</li>
-                <li className={clsx(styles.item)}>Tablet</li>
-                <li className={clsx(styles.item)}>Laptop</li>
-                <li className={clsx(styles.item)}>Clock</li>
+                <Link to="/MobilePage" style={{ textDecoration: "none" }}>
+
+                    <li className={clsx(styles.item)}>Mobile</li>
+                </Link>
+                <Link to="/TabletPage" style={{ textDecoration: "none" }}>
+
+                    <li className={clsx(styles.item)}>Tablet</li>
+                </Link>
+                <Link to="/LaptopPage" style={{ textDecoration: "none" }}>
+                    <li className={clsx(styles.item)}>Laptop</li>
+                </Link>
+                <Link to="/ClockPage" style={{ textDecoration: "none" }}>
+
+                    <li className={clsx(styles.item)}>Clock</li>
+                </Link>
             </ul>
             <div className={clsx(styles.cart)}>
                 <Link to='/Cart'>

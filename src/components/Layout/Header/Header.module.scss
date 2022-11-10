@@ -1,6 +1,7 @@
 $red-color: #D61C4E;
-$yellow-color: #FEDB39;
+$grey-color: #D6E4E5;
 $blue-color: #1CD6CE;
+
 
 .container {
     width: 100%;
@@ -8,9 +9,12 @@ $blue-color: #1CD6CE;
     display: flex;
     justify-content: space-between;
 
+
     .logo {
 
         .link {
+
+            font-family: 'Fugaz One', cursive;
             text-decoration: none;
             font-size: 1.6rem;
             font-weight: 500;
@@ -35,13 +39,14 @@ $blue-color: #1CD6CE;
         }
 
         &:hover {
-            background-color: $yellow-color;
+            background-color: $grey-color;
             padding: 5px;
             border-radius: 10px;
 
 
             a {
-                text-decoration: underline;
+                color: #393E46;
+                text-decoration: none;
             }
         }
     }
@@ -58,12 +63,13 @@ $blue-color: #1CD6CE;
         }
 
         &:hover {
-            background-color: $yellow-color;
+            background-color: $grey-color;
             padding: 5px;
             border-radius: 10px;
 
             a {
-                text-decoration: underline;
+                color: #393E46;
+                text-decoration: none;
             }
         }
     }
