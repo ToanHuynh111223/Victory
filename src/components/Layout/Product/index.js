@@ -1,69 +1,50 @@
 import clsx from "clsx";
 import styles from "./Product.module.scss"
-import { Link } from "react-router-dom";
-import { useState, useEffect, createContext, useRef } from "react";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { useState, useEffect, useRef } from "react";
+import Mobile from "./Mobile";
+import Tablet from "./Tablet";
+import Laptop from "./Laptop";
+import Clock from "./Clock";
+import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
 function Product() {
-    const [products, getProducts] = useState([])
-    // const [getProduct, setProduct] = useState('')
+    const [products, setProducts] = useState([])
+    const [product, setProduct] = useState([<Laptop />, <Clock />])
+    const [count, setCount] = useState(0)
+    const span = useRef()
+    const handleAddProduct = () => {
+        // setProduct(<Tablet />)
+        // if (product) {
+        //     setProduct(<Mobile />)
+        // }
+        setProducts((prev) => [...prev, product[count]])
+        if (count > product.length - 1) {
+            span.current.innerText = 'Đã hết sản phẩm'
+        }
 
-    useEffect(() => {
+    }
 
-        fetch('http://localhost:3001/products')
-            .then((response) => response.json())
-            .then((data) => getProducts(data));
-
-    }, [])
-    // useEffect(() => {
-    //     console.log(getProduct)
-    //     ProductContext = 1
-    //     console.log(ProductContext)
-    // }, [getProduct])
-    // const handleSetProduct = (product) => {
-    //     setProduct(product.name)
-    // }
     return (
-
-        <div className={clsx(styles.container)}>
-            <div className={clsx(styles.row)}>
-                {products.map((product) => {
-                    return (
-                        <div key={product.id} className={clsx(styles.col, styles.col_3)}>
-                            <Link to='/ProductPage' onClick={() => { handleSetProduct(product) }} >
-                                <div className={clsx(styles.wrapper_product)}>
-                                    <div className={clsx(styles.wrapper_img)}>
-                                        <img src={product.img} className={clsx(styles.img)}></img>
-                                    </div>
-                                    <div className={clsx(styles.wrapper_info)}>
-
-                                        <h3 className={clsx(styles.name)}>{product.name}</h3>
-                                        <div className={clsx(styles.item)}>
-                                            <span className={clsx(styles.item_name)}>{product.item[0]}</span>
-                                            <span className={clsx(styles.item_name)}>{product.item[1]}</span>
-                                        </div>
-                                        <div className={clsx(styles.sale)}>
-                                            <p className={clsx(styles.cost_sale)}>{product.cost_sale}</p>
-                                            <span className={clsx(styles.percent)}>{product.percent}</span>
-                                        </div>
-                                        <strong className={clsx(styles.cost_current)}>{product.cost_current}</strong>
-
-                                    </div>
-                                </div>
-                            </Link>
-                        </div>
-
-
-                    )
+        <>
+            <Mobile />
+            <Tablet />
+            {
+                products.map((value, index) => {
+                    return value
                 })
-                }
+            }
+            <div onClick={() => { handleAddProduct(), setCount(count + 1) }} className={clsx(styles.wrapper)}>
 
+                <button className={clsx(styles.btn)}>
+                    <span ref={span} className={clsx(styles.text)}>Xem thêm</span>
+                    <FontAwesomeIcon className={clsx(styles.icon)} icon={faCaretDown}></FontAwesomeIcon>
+                </button>
             </div>
-        </div>
-
+            {/* <Laptop />
+            <Clock /> */}
+        </>
 
     );
 }
 
-export let ProductContext;
-console.log(ProductContext)
 export default Product;

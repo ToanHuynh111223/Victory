@@ -1,0 +1,105 @@
+$red-color: #D61C4E;
+$yellow-color: #FEDB39;
+$blue-color: #1CD6CE;
+
+.container {
+    margin-top: 0px;
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -15px;
+
+        .col {
+            padding: 0 15px;
+        }
+
+        .col_5 {
+            flex: 0 0 41.66667%;
+            max-width: 41.66667%;
+        }
+
+        a {
+            text-decoration: none;
+
+
+            &:hover .img {
+                transform: translateY(-5%);
+            }
+
+            &:hover .wrapper_info .name {
+                color: $red-color
+            }
+        }
+
+        .wrapper_product {
+            width: 100%;
+            margin-bottom: 40px;
+
+            .wrapper_img {
+                width: 100%;
+            }
+
+            .img {
+                transition: transform 0.4s ease-in-out;
+
+                height: 200px;
+            }
+
+
+
+            .wrapper_info {
+                padding: 15px;
+                max-width: 200px;
+
+                .name {
+                    font-size: 0.7rem;
+                    color: black;
+                    margin-bottom: 4px;
+
+                }
+
+
+                .item {
+                    display: flex;
+                    flex-wrap: wrap;
+                    margin-bottom: 4px;
+
+                    .item_name {
+                        font-size: 0.5rem;
+                        padding: 2px;
+                        background-color: #eaeaea;
+                        margin: 2px 4px 2px 0;
+                        border-radius: 2px;
+                        color: #333
+                    }
+                }
+
+                .sale {
+                    display: flex;
+                    margin-bottom: 4px;
+
+                    .cost_sale {
+                        font-size: 0.6rem;
+                        color: #333;
+                        text-decoration: line-through;
+                    }
+
+                    .percent {
+                        font-size: 0.6rem;
+                        color: #333;
+                        margin-left: 4px;
+                    }
+                }
+
+                .cost_current {
+                    font-size: 0.7rem;
+                    color: black;
+                }
+            }
+
+
+        }
+
+    }
+}
