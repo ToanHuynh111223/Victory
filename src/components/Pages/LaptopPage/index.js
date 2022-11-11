@@ -5,7 +5,7 @@ import Laptop from "../../Layout/Product/Laptop";
 import New from "../../Layout/New";
 import clsx from "clsx";
 import styles from './LaptopPage.module.scss';
-function LaptopPage() {
+function LaptopPage(props) {
     return (
         <>
 
@@ -14,7 +14,7 @@ function LaptopPage() {
                 <Header />
                 <Navbar />
                 <New src='./imgNew/banner-cao-cao-desktop-1200x200.png' />
-                <Laptop />
+                <Laptop laptop={props.laptop} />
             </div>
             <Footer />
         </>

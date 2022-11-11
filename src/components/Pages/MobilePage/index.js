@@ -5,7 +5,7 @@ import Mobile from "../../Layout/Product/Mobile";
 import New from "../../Layout/New";
 import styles from './MobilePage.module.scss';
 import clsx from "clsx";
-function MobilePage() {
+function MobilePage(props) {
     return (
         <>
 
@@ -14,7 +14,7 @@ function MobilePage() {
                 <Header />
                 <Navbar />
                 <New src='./imgNew/800-200-800x200-63.png' />
-                <Mobile />
+                <Mobile mobile={props.mobile} />
             </div>
             <Footer />
         </>

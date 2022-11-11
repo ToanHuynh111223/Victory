@@ -7,16 +7,12 @@ import Tablet from "./Tablet";
 import Laptop from "./Laptop";
 import Clock from "./Clock";
 import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
-function Product() {
+function Product(props) {
     const [products, setProducts] = useState([])
-    const [product, setProduct] = useState([<Laptop />, <Clock />])
+    const [product, setProduct] = useState([<Laptop laptop={props.laptop} />, <Clock clock={props.clock} />])
     const [count, setCount] = useState(0)
     const span = useRef()
     const handleAddProduct = () => {
-        // setProduct(<Tablet />)
-        // if (product) {
-        //     setProduct(<Mobile />)
-        // }
         setProducts((prev) => [...prev, product[count]])
         if (count > product.length - 1) {
             span.current.innerText = 'Đã hết sản phẩm'
@@ -26,8 +22,8 @@ function Product() {
 
     return (
         <>
-            <Mobile />
-            <Tablet />
+            <Mobile mobile={props.mobile} />
+            <Tablet tablet={props.tablet} />
             {
                 products.map((value, index) => {
                     return value

@@ -298,7 +298,7 @@
     "productsLaptop": [
         {
             "id": 1,
-            "name": "Laptop Lenovo Gaming Legion 5 15ACH6 R7 5800H/8GB/512GB/4GB)",
+            "name": "Laptop Lenovo Gaming Legion 5 15ACH6 R7 5800H-8GB-512GB-4GB)",
             "img": "./imgLaptop/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-090522-085406-600x600.jpg",
             "item": [
                 "RAM 8 GB",
@@ -382,7 +382,7 @@
         },
         {
             "id": 8,
-            "name": "MacBook Pro 14 M1 Pro 2021/16-core GPU",
+            "name": "MacBook Pro 14 M1 Pro 2021 16-core GPU",
             "img": "./imgLaptop/apple-macbook-pro-14-m1-pro-2021-10-core-cpu-600x600.jpg",
             "item": [
                 "RAM 16 GB",

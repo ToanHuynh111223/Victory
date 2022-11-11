@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import styles from './Footer.module.scss'
 import { Link } from "react-router-dom";
 
-function Footer() {
+function Footer(props) {
     return (
         <div className={clsx(styles.container)}>
             <div className={clsx(styles.wrapper)}>
@@ -39,8 +39,8 @@ function Footer() {
                         <h3 className={clsx(styles.title)}>Được chứng nhận:</h3>
                         <div className={clsx(styles.certificate)}>
 
-                            <img src='./imgCertificate/certification.4beff0d90e02a7eee6df.png' />
-                            <img src='./imgCertificate/handle_cert.png' />
+                            <img src='../imgCertificate/certification.4beff0d90e02a7eee6df.png' />
+                            <img src='../imgCertificate/handle_cert.png' />
                         </div>
                     </div>
                 </div>

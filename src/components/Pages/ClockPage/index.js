@@ -5,7 +5,7 @@ import Clock from "../../Layout/Product/Clock";
 import New from "../../Layout/New";
 import clsx from "clsx";
 import styles from './ClockPage.module.scss';
-function ClockPage() {
+function ClockPage(props) {
     return (
         <>
 
@@ -14,7 +14,7 @@ function ClockPage() {
                 <Header />
                 <Navbar />
                 <New src='./imgNew/DCC8CCF7-A8BB-4741-86EF-0DCB5A653521-1200x300.png' />
-                <Clock />
+                <Clock clock={props.clock} />
             </div>
             <Footer />
         </>

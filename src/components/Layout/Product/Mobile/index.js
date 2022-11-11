@@ -1,25 +1,16 @@
 import clsx from "clsx";
 import styles from "./Mobile.module.scss"
 import { Link } from "react-router-dom";
-import { useState, useEffect } from "react";
 
-function Mobile() {
-    const [products, getProducts] = useState([])
+function Mobile(props) {
 
-    useEffect(() => {
-
-        fetch('http://localhost:3001/productsMobile')
-            .then((response) => response.json())
-            .then((data) => getProducts(data));
-
-    }, [])
     return (
         <div className={clsx(styles.container)}>
             <div className={clsx(styles.row)}>
-                {products.map((product) => {
+                {props.mobile.map((product) => {
                     return (
                         <div key={product.id} className={clsx(styles.col, styles.col_3)}>
-                            <Link to='/ProductPage' onClick={() => { handleSetProduct(product) }} >
+                            <Link to={`/ProductDetails/${product.id}${product.name}`} >
                                 <div className={clsx(styles.wrapper_product)}>
                                     <div className={clsx(styles.wrapper_img)}>
                                         <img src={product.img} className={clsx(styles.img)}></img>

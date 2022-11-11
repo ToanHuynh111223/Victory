@@ -6,7 +6,7 @@ import Product from "../../Layout/Product";
 import clsx from "clsx";
 import styles from "./Home.module.scss"
 
-function Home() {
+function Home(props) {
     return (
         <>
             <div className={clsx(styles.container)}>
@@ -14,7 +14,7 @@ function Home() {
                 <Header />
                 <Navbar />
                 <News />
-                <Product />
+                <Product clock={props.clock} laptop={props.laptop} mobile={props.mobile} tablet={props.tablet} />
 
             </div>
             <Footer />

@@ -5,7 +5,7 @@ import Tablet from "../../Layout/Product/Tablet";
 import New from "../../Layout/New";
 import clsx from "clsx";
 import styles from './TabletPage.module.scss';
-function TabletPage() {
+function TabletPage(props) {
     return (
         <>
 
@@ -14,7 +14,7 @@ function TabletPage() {
                 <Header />
                 <Navbar />
                 <New src='./imgNew/800-200-800x200-45.png' />
-                <Tablet />
+                <Tablet tablet={props.tablet} />
             </div>
             <Footer />
         </>
