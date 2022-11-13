@@ -21,7 +21,7 @@ function Clock(props) {
                                         <h3 className={clsx(styles.name)}>{product.name}</h3>
                                         <div className={clsx(styles.item)}>
                                             <span className={clsx(styles.item_name)}>{product.item[0]}</span>
-                                            <span className={clsx(styles.item_name)}>{product.item[1]}</span>
+
                                         </div>
                                         <div className={clsx(styles.sale)}>
                                             <p className={clsx(styles.cost_sale)}>{product.cost_sale}</p>

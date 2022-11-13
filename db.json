@@ -62,7 +62,33 @@
             ],
             "cost_sale": "23.990.000đ",
             "percent": "-12%",
-            "cost_current": "20.990.000đ"
+            "cost_current": "20.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-2.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-3.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-4.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-5.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-6.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-7.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-10.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-11.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-flip4-xanh-128gb-14.jpg"
+            ],
+            "pr_content": [
+                "Tặng Samsung Galaxy Watch4 Classic (Không áp dụng kèm Thu Cũ Đổi Mới)",
+                "Tặng gói Bảo hiểm mở rộng Samsung Care+ 6 tháng",
+                "Thu cũ Đổi mới: Giảm đến 5 triệu (Không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giới thiệu bạn bè: Nhận ngay mã giảm 1 triệu (Lấy mã trên dòng Galaxy Z)",
+                "Ưu đãi Phòng chờ hạng thương gia",
+                "Trả góp 0% thẻ tín dụng qua Quà tặng Galaxy",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Mua Máy chiếu công nghệ bỏ túi FHD Samsung The Freestyle SP-LSP3 giảm giá 1,000,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Giảm 34% gói Samsung Care+ 12 tháng"
+            ]
         },
         {
             "id": 2,
@@ -74,7 +100,33 @@
             ],
             "cost_sale": "40.990.000đ",
             "percent": "-7%",
-            "cost_current": "37.990.000đ"
+            "cost_current": "37.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-2.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-3.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-5.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-6.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-7.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-8.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-9.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-10.jpg",
+                "../imgDetailsProduct/samsung-galaxy-z-fold4-256gb-11.jpg"
+            ],
+            "pr_content": [
+                "Tặng Samsung Galaxy Watch4 Classic (Không áp dụng kèm Thu Cũ Đổi Mới)",
+                "Tặng gói Bảo hiểm mở rộng Samsung Care+ 6 tháng",
+                "Thu cũ Đổi mới: Giảm đến 5 triệu (Không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giới thiệu bạn bè: Nhận ngay mã giảm 1 triệu (Lấy mã trên dòng Galaxy Z)",
+                "Ưu đãi Phòng chờ hạng thương gia",
+                "Trả góp 0% thẻ tín dụng qua Quà tặng Galaxy",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Mua Máy chiếu công nghệ bỏ túi FHD Samsung The Freestyle SP-LSP3 giảm giá 1,000,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Giảm 30% gói Samsung Care+ 12 tháng"
+            ]
         },
         {
             "id": 3,

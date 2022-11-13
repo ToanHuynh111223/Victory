@@ -15,6 +15,7 @@ function App() {
   const [laptop, getLaptop] = useState([])
   const [mobile, getMobile] = useState([])
   const [tablet, getTablet] = useState([])
+
   useEffect(() => {
 
     fetch('http://localhost:3001/productsClock')
@@ -66,7 +67,7 @@ function App() {
         </div>
       </Router>
 
-    </GlobalStyles>
+    </GlobalStyles >
   );
 }
 

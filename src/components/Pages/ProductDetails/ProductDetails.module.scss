@@ -1,3 +1,249 @@
+$red-color: #D61C4E;
+$yellow-color: #FEDB39;
+$blue-color: #1CD6CE;
+
 .container {
     margin: 0 60px;
+}
+
+.wrapper {
+
+    margin: 60px 0;
+
+    .header {
+        width: 100%;
+        margin-bottom: 20px 0;
+        padding: 0 0 10px;
+        border-bottom: 2px solid #e0e0e0;
+        display: flex;
+        justify-content: space-between;
+
+        .info_product {
+            display: flex;
+
+
+            .name_product {
+                font-size: 0.8rem;
+
+            }
+
+            .rate {
+                display: flex;
+                margin: 6px 0 0 20px;
+                font-size: 0.5rem;
+                color: #fb6e2e;
+            }
+        }
+
+        .like_share {
+            display: flex;
+
+            .btn {
+                outline: none;
+                padding: 4px;
+                border: none;
+                border-radius: 4px;
+                margin: 0 4px;
+                background-color: $red-color;
+                color: #fff;
+
+                svg {
+                    padding: 0 2px;
+                }
+
+                &:hover {
+                    color: $yellow-color;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+    .main {
+        width: 100%;
+
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            margin-left: -4px;
+            margin-right: -4px;
+
+            .col {
+                padding-left: 4px;
+                padding-right: 4px;
+
+            }
+
+            .col_7 {
+                flex: 0 0 58.33333%;
+                max-width: 58.33333%;
+            }
+
+            .col_5 {
+                flex: 0 0 41.66667%;
+                max-width: 41.66667%;
+            }
+        }
+
+        .show_slide {
+            position: relative;
+
+            .box_slide {
+                width: 100%;
+                margin-top: 40px;
+                overflow: hidden;
+
+                .slide {
+                    width: 100%;
+                    height: 473px;
+                    display: flex;
+                    flex-wrap: nowrap;
+                    transition: transform 1s ease-in-out;
+
+                    .img {
+                        width: 100%;
+                        margin: 0 5px 0px 0px;
+                    }
+                }
+            }
+
+            .prev {
+                position: absolute;
+                top: calc(473px/2);
+                left: -12px;
+                font-size: 1.4rem;
+                padding: 8px;
+                border: none;
+                border-radius: 6px 0px 0px 6px;
+
+                &:hover {
+                    cursor: pointer;
+                    color: #fff;
+                    background-color: $red-color;
+                    box-shadow: 6px 0 4px rgb(0 0 0 / 50%), 6px 0 4px rgb(0 0 0 / 9%);
+                }
+            }
+
+            .next {
+                position: absolute;
+                top: calc(473px/2);
+                right: 0;
+                font-size: 1.4rem;
+                padding: 8px;
+                border: none;
+                border-radius: 0 6px 6px 0;
+
+                &:hover {
+                    cursor: pointer;
+                    color: #fff;
+                    background-color: $red-color;
+                    box-shadow: -6px 0 4px rgb(0 0 0 / 50%), -6px 0 4px rgb(0 0 0 / 9%);
+                }
+            }
+        }
+
+        .policy {
+            margin-top: 20px;
+            padding: 12px 0 12px 15px;
+
+            .policy_list {
+                display: flex;
+                flex-wrap: wrap;
+                text-decoration: none;
+
+                li {
+                    border-bottom: 1px solid #f1f1f1;
+                    position: relative;
+                    padding: 12px 16px 12px 35px;
+                    width: 50%;
+                    display: inline-block;
+
+                    &:last-child {
+                        border-bottom: none;
+                    }
+                }
+
+                .policy_icon {
+                    left: 0;
+                    position: absolute;
+                    top: 8px;
+
+
+                }
+
+                svg {
+                    background-position: 0 -35px;
+                    height: 26px;
+                    width: 26px;
+                    color: $red-color;
+                }
+
+                p {
+                    line-height: 20px;
+                    padding-left: 5px;
+                    font-size: 0.6rem;
+                }
+            }
+
+
+        }
+
+        .block_promo {
+            width: 100%;
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+            margin-bottom: 10px;
+
+            .pr_top {
+                background-color: #f6f6f6;
+                border-bottom: 1px solid #e0e0e0;
+                padding: 8px 10px;
+
+                p {
+                    font-size: 0.7rem;
+                }
+            }
+
+            .content {
+                .pr_item {
+                    padding: 15px 10px 10px 10px;
+                }
+
+                .list {
+                    list-style: none;
+                    display: flex;
+                    flex-direction: column;
+
+                    .item {
+                        margin-bottom: 10px;
+
+                        .number {
+                            background-color: #4a90e2;
+                            border-radius: 50%;
+                            color: #fff;
+                            display: inline-block;
+                            font-size: 11px;
+                            float: left;
+                            height: 16px;
+                            line-height: 16px;
+                            margin-top: 2px;
+                            text-align: center;
+                            width: 16px;
+                        }
+
+                        .item_right {
+                            padding-left: 26px;
+
+                            p {
+                                line-height: 1.5;
+                                font-size: 0.6rem;
+                            }
+                        }
+                    }
+                }
+
+
+            }
+        }
+    }
 }
