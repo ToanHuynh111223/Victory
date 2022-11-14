@@ -88,6 +88,44 @@
                 "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
                 "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
                 "Giảm 34% gói Samsung Care+ 12 tháng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED chính 6.7' & Phụ 1.9'Full HD+"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "2 camera 12 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "10 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8+ Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM & 1 eSIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "3700 mAh, 25 W"
+                ]
             ]
         },
         {
@@ -126,6 +164,44 @@
                 "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
                 "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
                 "Giảm 30% gói Samsung Care+ 12 tháng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "Dynamic AMOLED 2X, Chính 7.6' & Phụ 6.2', Quad HD+ (2K+)"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 50 MP & Phụ 12 MP, 10 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "10 MP & 4 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8+ Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "12 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "256 GB"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM & 1 eSIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "4400 mAh, 25 W"
+                ]
             ]
         },
         {
@@ -138,19 +214,139 @@
             ],
             "cost_sale": "25.990.000đ",
             "percent": "-15%",
-            "cost_current": "21.990.000đ"
+            "cost_current": "21.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-1-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-2-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-3-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-4-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-5-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-6.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-7.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-8.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-9.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-plus-trang-11.jpg"
+            ],
+            "pr_content": [
+                "Tặng gói combo ăn uống, giải trí trị giá đến 1,700,000đ",
+                "Trả góp 0% thẻ tín dụng, chuyển đổi qua Quà tặng Galaxy",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Mua Máy chiếu công nghệ bỏ túi FHD Samsung The Freestyle SP-LSP3 giảm giá 1,000,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Giảm 30% gói Samsung Care+ 12 tháng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "Dynamic AMOLED 2X, 6.6', Full HD+"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 50 MP & Phụ 12 MP, 10 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "10 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8 Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "4500 mAh, 45 W"
+                ]
+            ]
         },
         {
             "id": 4,
-            "name": "Samsung Galaxy S22 5G",
-            "img": "./imgMobile/samsung-galaxy-s22-ultra-090222-104147-600x600.jpg",
+            "name": "Samsung Galaxy S22 Ultra 5G",
+            "img": "./imgMobile/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
             "item": [
                 "6.8'",
                 "Quad HD+ (2K+)"
             ],
             "cost_sale": "30.990.000đ",
             "percent": "-16%",
-            "cost_current": "25.990.000đ"
+            "cost_current": "25.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-1-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-2-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-3-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-4.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-5.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-6.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-7.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-8.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-10.jpg",
+                "../imgDetailsProduct/samsung-galaxy-s22-ultra-do-13.jpg"
+            ],
+            "pr_content": [
+                "Tặng gói combo ăn uống, giải trí trị giá đến 1,700,000đ",
+                "Trả góp 0% thẻ tín dụng, chuyển đổi qua Quà tặng Galaxy",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Mua Máy chiếu công nghệ bỏ túi FHD Samsung The Freestyle SP-LSP3 giảm giá 1,000,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Giảm 30% gói Samsung Care+ 12 tháng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "Dynamic AMOLED 2X, 6.8', Quad HD+ (2K+)"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "40 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8 Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "5000 mAh, 45 W"
+                ]
+            ]
         },
         {
             "id": 5,
@@ -162,7 +358,61 @@
             ],
             "cost_sale": "11.990.000đ",
             "percent": "",
-            "cost_current": "11.690.000đ"
+            "cost_current": "11.690.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-a73-5g-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-5g-2.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-5g-5.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-5g-4.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-5g-6.jpg"
+            ],
+            "pr_content": [
+                "Trả góp 0% thẻ tín dụng, chuyển đổi qua Quà tặng Galaxy",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Mua Máy chiếu công nghệ bỏ túi FHD Samsung The Freestyle SP-LSP3 giảm giá 1,000,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Giảm 40% gói Samsung Care+ 12 tháng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "Super AMOLED, Plus6.7', Full HD+"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 108 MP & Phụ 12 MP, 5 MP, 5 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "32 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 778G 5G"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "5000 mAh, 25 W"
+                ]
+            ]
         },
         {
             "id": 6,
@@ -174,11 +424,65 @@
             ],
             "cost_sale": "12.690.000đ",
             "percent": "-5%",
-            "cost_current": "11.990.000đ"
+            "cost_current": "11.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-11.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-113.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-112.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-111.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-110.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-19.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-16.jpg",
+                "../imgDetailsProduct/samsung-galaxy-a73-pubg-1-17.jpg"
+            ],
+            "pr_content": [
+                "Sạc 25W Galaxy A73 Đặc Biệt",
+                "Ốp Lưng KM Galaxy A73 Đặc Biệt",
+                "Dây đeo Galaxy A73 Đặc Biệt",
+                "Hộp Galaxy A73 5G phiên bản Đặc Biệt"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "Super AMOLED, Plus6.7', Full HD+"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 108 MP & Phụ 12 MP, 5 MP, 5 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "32 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 778G 5G"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "5000 mAh, 25 W"
+                ]
+            ]
         },
         {
             "id": 7,
-            "name": "OPPO Reno8 series",
+            "name": "OPPO Reno8 Pro 5G",
             "img": "./imgMobile/oppo-reno8-pro-thumb-xanh-600x600.jpg",
             "item": [
                 "6.7'",
@@ -186,7 +490,63 @@
             ],
             "cost_sale": "18.990.000đ",
             "percent": "",
-            "cost_current": "11.490.000đ"
+            "cost_current": "11.490.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-1.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-2.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-3.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-4.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-5.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-6.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-7.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-8.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-10.jpg",
+                "../imgDetailsProduct/oppo-reno8-pro-xanh-12.jpg"
+            ],
+            "pr_content": [
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "AMOLED, 6.7, Full HD+"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 50 MP & Phụ 8 MP, 2 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "32 MP"
+                ],
+                [
+                    "Chip:",
+                    "MediaTek Dimensity 8100 Max 8 nhân"
+                ],
+                [
+                    "RAM:",
+                    "12 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "256 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "4500 mAh, 80 W"
+                ]
+            ]
         },
         {
             "id": 8,
@@ -198,7 +558,58 @@
             ],
             "cost_sale": "24.990.000đ",
             "percent": "-18%",
-            "cost_current": "20.290.000đ"
+            "cost_current": "20.290.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/iphone-13-2-5.jpg",
+                "../imgDetailsProduct/iphone-13-3-5.jpg",
+                "../imgDetailsProduct/iphone13-tem-15.jpg"
+            ],
+            "pr_content": [
+                "Phiếu mua hàng Bách Hóa Xanh 500,000đ",
+                "Thu cũ Đổi mới: Giảm đến 1.5 triệu (Tuỳ model máy cũ, không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giảm đến 35% cho iPad khi mua kèm iPhone (Tùy model & không kèm khuyến mãi khác của iPad)",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Giảm 50% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "OLED, 6.1, Super Retina XDR"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iOS 15"
+                ],
+                [
+                    "Camera sau:",
+                    "2 camera 12 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Apple A15 Bionic"
+                ],
+                [
+                    "RAM:",
+                    "4 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM & 1 eSIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "3240 mAh, 20 W"
+                ]
+            ]
         },
         {
             "id": 9,
@@ -210,7 +621,63 @@
             ],
             "cost_sale": "16.990.000đ",
             "percent": "",
-            "cost_current": "16.490.000đ"
+            "cost_current": "16.490.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/xiaomi-12t-pro-den-1.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-2.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-3.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-4.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-5.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-6.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-9.jpg",
+                "../imgDetailsProduct/xiaomi-12t-pro-den-11.jpg"
+            ],
+            "pr_content": [
+                "Bảo hiểm màn hình 6 tháng",
+                "Thu cũ Đổi mới: Giảm đến 2 triệu (Tuỳ model máy cũ, không kèm giảm giá khác)",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Cơ hội trúng 50 giải vàng (tổng giải thưởng đến 500 triệu)",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Nhập mã VICTORY giảm 4% tối đa 200.000đ cho đơn hàng từ 500.000đ trở lên khi thanh toán qua Ví Moca trên ứng dụng Grab"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "AMOLED, 6.67', 1.5K"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 200 MP & Phụ 8 MP, 2 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "20 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8+ Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "12 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "256 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM, Hỗ trợ 5G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "5000 mAh, 120 W"
+                ]
+            ]
         },
         {
             "id": 10,
@@ -222,7 +689,58 @@
             ],
             "cost_sale": "7.490.000đ",
             "percent": "-5%",
-            "cost_current": "7.090.000đ"
+            "cost_current": "7.090.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-1-org.jpg",
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-2-org.jpg",
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-4-org.jpg",
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-5-org.jpg",
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-6-org.jpg",
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-10-org.jpg",
+                "../imgDetailsProduct/xiaomi-redmi-note-10-pro-xam-12-org.jpg"
+            ],
+            "pr_content": [
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng"
+            ],
+            "parameter": [
+                [
+                    "Màn hình:",
+                    "AMOLED, 6.67', Full HD+"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 11"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 108 MP & Phụ 8 MP, 5 MP, 2 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "16 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 732G"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "SIM:",
+                    "2 Nano SIM, Hỗ trợ 4G"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "5020 mAh, 33 W"
+                ]
+            ]
         }
     ],
     "productsTablet": [
@@ -236,7 +754,70 @@
             ],
             "cost_sale": "13.990.000đ",
             "percent": "-12%",
-            "cost_current": "13.690.000đ"
+            "cost_current": "13.690.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-2.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-3.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-4.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-7.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-11-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fan-editon-14.jpg"
+            ],
+            "pr_content": [
+                "Tặng Bao da không bàn phím Tab S7 FE",
+                "Tặng mã ưu đãi VIP xem phim miễn phí 3 tháng trị giá 249,000đ",
+                "Tặng mã ưu đãi xem truyền hình trị giá 450.000đ",
+                "Tặng 06 mã ưu đãi ăn uống tổng trị giá 300,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Samsung"
+                ],
+                [
+                    "Màn hình:",
+                    "12.4', TFT LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 11"
+                ],
+                [
+                    "Camera sau:",
+                    "8 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "5 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 750G"
+                ],
+                [
+                    "RAM:",
+                    "4 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "64 GB"
+                ],
+                [
+                    "Kết nỗi:",
+                    "Hỗ trợ 4G, Có nghe gọi"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "10090 mAh, 45 W"
+                ]
+            ]
         },
         {
             "id": 2,
@@ -248,7 +829,62 @@
             ],
             "cost_sale": "14.990.000đ",
             "percent": "-10%",
-            "cost_current": "13.490.000đ"
+            "cost_current": "13.490.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/ipad-mini-6-wifi-purple-1-1.jpg",
+                "../imgDetailsProduct/ipad-mini-6-wifi-purple-2.jpg",
+                "../imgDetailsProduct/ipad-mini-6-wifi-purple-3.jpg",
+                "../imgDetailsProduct/ipadmini6wifi642-2.jpg"
+            ],
+            "pr_content": [
+                "Thu cũ Đổi mới: Giảm đến 1.5 triệu (Tuỳ model máy cũ, không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giảm đến 35% khi mua kèm iPhone (Tùy model & không kèm khuyến mãi khác của iPad)",
+                "Giảm đến 23% khi mua kèm Apple watch (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Apple"
+                ],
+                [
+                    "Màn hình:",
+                    "8.3', LED-backlit IPS LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iPadOS 15"
+                ],
+                [
+                    "Camera sau:",
+                    "12 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Apple A15 Bionic"
+                ],
+                [
+                    "RAM:",
+                    "4 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "64 GB"
+                ],
+                [
+                    "Kết nỗi:",
+                    "Nghe gọi qua FaceTime"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "119.3 Wh (~ 5175 mAh), 20 W"
+                ]
+            ]
         },
         {
             "id": 3,
