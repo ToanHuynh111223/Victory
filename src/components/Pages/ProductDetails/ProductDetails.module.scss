@@ -100,8 +100,23 @@ $blue-color: #1CD6CE;
                     flex-wrap: nowrap;
                     transition: transform 1s ease-in-out;
 
-                    .img {
+                    .clock {
+
                         width: 100%;
+
+                        // display: flex;
+                        // align-items: center;
+                        // justify-content: center;
+                        // min-height: 394px;
+                        // position: relative;
+                    }
+
+                    .clock .img {
+                        width: 710px;
+                        height: 460px;
+                    }
+
+                    .img {
                         margin: 0 4px 0px 0px;
                     }
                 }

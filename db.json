@@ -806,7 +806,7 @@
                     "64 GB"
                 ],
                 [
-                    "Kết nỗi:",
+                    "Kết nối:",
                     "Hỗ trợ 4G, Có nghe gọi"
                 ],
                 [
@@ -877,7 +877,7 @@
                     "64 GB"
                 ],
                 [
-                    "Kết nỗi:",
+                    "Kết nối:",
                     "Nghe gọi qua FaceTime"
                 ],
                 [
@@ -896,7 +896,58 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "12.990.000đ"
+            "cost_current": "12.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-6.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-7.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-8.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-11.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-13.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s7-fe-wifi-n-14.jpg"
+            ],
+            "pr_content": [
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Samsung"
+                ],
+                [
+                    "Màn hình:",
+                    "12.4', TFT LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 11"
+                ],
+                [
+                    "Camera sau:",
+                    "8 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "5 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 778G"
+                ],
+                [
+                    "RAM:",
+                    "4 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "64 GB"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "10090 mAh, 45 W"
+                ]
+            ]
         },
         {
             "id": 4,
@@ -908,7 +959,58 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "Dự kiến: 12.990.000₫"
+            "cost_current": "Dự kiến: 12.990.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/ipad-10-wifi-xanh-1.jpg",
+                "../imgDetailsProduct/ipad-10-wifi-xanh-2.jpg",
+                "../imgDetailsProduct/ipad-10-wifi-xanh-3.jpg"
+            ],
+            "pr_content": [
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Apple"
+                ],
+                [
+                    "Màn hình:",
+                    "10.9', Retina IPS LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iPadOS 16"
+                ],
+                [
+                    "Camera sau:",
+                    "12 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Apple A14 Bionic"
+                ],
+                [
+                    "RAM:",
+                    "4 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "64 GB"
+                ],
+                [
+                    "Kết nối:",
+                    "Nghe gọi qua FaceTime"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "28.6 Wh (~ 7587 mAh), 20 W"
+                ]
+            ]
         },
         {
             "id": 5,
@@ -920,7 +1022,59 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "12.790.000₫"
+            "cost_current": "12.790.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/huawei-matepad-11-xam-1.jpg",
+                "../imgDetailsProduct/huawei-matepad-11-xam-2.jpg",
+                "../imgDetailsProduct/huawei-matepad-11-xam-3.jpg",
+                "../imgDetailsProduct/huawei-matepad-11-xam-4.jpg",
+                "../imgDetailsProduct/huawei-matepad-11-xam-5.jpg",
+                "../imgDetailsProduct/huawei-matepad-11-xam-6.jpg",
+                "../imgDetailsProduct/huawei-matepad-11-xam-13.jpg"
+            ],
+            "pr_content": [
+                "Tặng gói xem truyền hình, ứng dụng trị giá hơn 600.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Huawei"
+                ],
+                [
+                    "Màn hình:",
+                    "10.9', IPS LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "HarmonyOS 2.0"
+                ],
+                [
+                    "Camera sau:",
+                    "13 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "8 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 865"
+                ],
+                [
+                    "RAM:",
+                    "6 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "7250 mAh, 18 W"
+                ]
+            ]
         },
         {
             "id": 6,
@@ -932,7 +1086,71 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "20.990.000đ"
+            "cost_current": "20.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/samsung-galaxy-tab-s8-white-1.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s8-white-2.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s8-white-3.jpg",
+                "../imgDetailsProduct/samsung-galaxy-tab-s8-16-1.jpg"
+            ],
+            "pr_content": [
+                "Tặng Bao da Tab S8",
+                "Giảm giá 2,000,000đ qua Quà tặng Galaxy (lấy mã trên dòng Z, S, Note và Tab S cũ)",
+                "Giảm đến 3,000,000đ khi Thu cũ Đổi mới (tùy model máy cũ)",
+                "Tặng gói Microsoft 365 Personal trị giá 1,290,000đ",
+                "Tặng mã ưu đãi VIP xem phim miễn phí 3 tháng trị giá 249,000đ",
+                "Tặng mã ưu đãi xem truyền hình trị giá 450.000đ",
+                "Tặng 06 mã ưu đãi ăn uống tổng trị giá 300,000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng",
+                "Nhập mã MWG18 giảm 3% tối đa 100.000đ khi thanh toán quét QRcode qua App của ngân hàng",
+                "Giảm 30% gói Samsung Care+ 12 tháng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Samsung"
+                ],
+                [
+                    "Màn hình:",
+                    "11', LTPS"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Android 12"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 13 MP & Phụ 6 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8 Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "Kết nối:",
+                    "5G, Có nghe gọi"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "8000 mAh, 45 W"
+                ]
+            ]
         },
         {
             "id": 7,
@@ -944,7 +1162,70 @@
             ],
             "cost_sale": "46.990.000đ",
             "percent": "-10%",
-            "cost_current": "41.990.000đ"
+            "cost_current": "41.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-1.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-2.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-4.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-5.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-6.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-7.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-8.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-11-inch-wifi-cellular-11.jpg"
+            ],
+            "pr_content": [
+                "Giảm đến 35% khi mua kèm iPhone (Tùy model & không kèm khuyến mãi khác của iPad)",
+                "Thu cũ Đổi mới: Giảm đến 1.5 triệu (Tuỳ model máy cũ, không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giảm đến 23% khi mua kèm Apple watch (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Apple"
+                ],
+                [
+                    "Màn hình:",
+                    "11', Liquid Retina"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iPadOS 15"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 12 MP & Phụ 10 MP, TOF 3D LiDAR"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Apple M1"
+                ],
+                [
+                    "RAM:",
+                    "16 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "1 TB"
+                ],
+                [
+                    "Kết nối:",
+                    "5G, Nghe gọi qua FaceTime"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM hoặc 1 eSIM"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "28.65 Wh (~ 7538 mAh), 20 W"
+                ]
+            ]
         },
         {
             "id": 8,
@@ -956,7 +1237,70 @@
             ],
             "cost_sale": "34.990.000đ",
             "percent": "-16%",
-            "cost_current": "29.290.000đ"
+            "cost_current": "29.290.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--1.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--2.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--3.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--4.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--5.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--7.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--10.jpg",
+                "../imgDetailsProduct/ipad-pro-m1-129-inch-wifi-cellular--12.jpg"
+            ],
+            "pr_content": [
+                "Thu cũ Đổi mới: Giảm đến 1.5 triệu (Tuỳ model máy cũ, không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giảm đến 35% khi mua kèm iPhone (Tùy model & không kèm khuyến mãi khác của iPad)",
+                "Giảm đến 23% khi mua kèm Apple watch (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Apple"
+                ],
+                [
+                    "Màn hình:",
+                    "12.9', Liquid Retina XDR"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iPadOS 15"
+                ],
+                [
+                    "Camera sau:",
+                    "Chính 12 MP & Phụ 10 MP, TOF 3D LiDAR"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Apple M1"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "128 GB"
+                ],
+                [
+                    "Kết nối:",
+                    "5G, Nghe gọi qua FaceTime"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM hoặc 1 eSIM"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "40.88 Wh (~ 10.835 mAh), 20 W"
+                ]
+            ]
         },
         {
             "id": 9,
@@ -968,7 +1312,65 @@
             ],
             "cost_sale": "20.990.000đ",
             "percent": "-2%",
-            "cost_current": "20.490.000đ"
+            "cost_current": "20.490.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/ipad-air-5-m1-wifi-cellular-tim-1.jpg",
+                "../imgDetailsProduct/ipad-air-5-m1-wifi-cellular-tim-2.jpg",
+                "../imgDetailsProduct/ipad-air-5-m1-wifi-cellular-tim-3.jpg"
+            ],
+            "pr_content": [
+                "Thu cũ Đổi mới: Giảm đến 1.5 triệu (Tuỳ model máy cũ, không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giảm đến 35% khi mua kèm iPhone (Tùy model & không kèm khuyến mãi khác của iPad)",
+                "Giảm đến 23% khi mua kèm Apple watch (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Apple"
+                ],
+                [
+                    "Màn hình:",
+                    "10.9', Retina IPS LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iPadOS 15"
+                ],
+                [
+                    "Camera sau:",
+                    "12 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Apple M1"
+                ],
+                [
+                    "RAM:",
+                    "8 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "64 GB"
+                ],
+                [
+                    "Kết nối:",
+                    "5G, Nghe gọi qua FaceTime"
+                ],
+                [
+                    "SIM:",
+                    "1 Nano SIM & 1 eSIM"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "28.6 Wh (~ 7587 mAh), 20 W"
+                ]
+            ]
         },
         {
             "id": 10,
@@ -980,7 +1382,61 @@
             ],
             "cost_sale": "9.990.000đ",
             "percent": "-20%",
-            "cost_current": "7.990.000đ"
+            "cost_current": "7.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/ipad-9-wifi-den-1.jpg",
+                "../imgDetailsProduct/ipad-9-grey-2.jpg",
+                "../imgDetailsProduct/ipad-gen-9-grey-4.jpg"
+            ],
+            "pr_content": [
+                "Thu cũ Đổi mới: Giảm đến 1.5 triệu (Tuỳ model máy cũ, không áp dụng kèm giảm giá qua cổng thanh toán)",
+                "Giảm đến 35% khi mua kèm iPhone (Tùy model & không kèm khuyến mãi khác của iPad)",
+                "Giảm đến 23% khi mua kèm Apple watch (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)",
+                "Giảm đến 23% khi mua kèm Macbook (không áp dụng KM khác)"
+            ],
+            "parameter": [
+                [
+                    "Hãng:",
+                    "Apple"
+                ],
+                [
+                    "Màn hình:",
+                    "10.2', Retina IPS LCD"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "iPadOS 15"
+                ],
+                [
+                    "Camera sau:",
+                    "8 MP"
+                ],
+                [
+                    "Camera trước:",
+                    "12 MP"
+                ],
+                [
+                    "Chip:",
+                    "Snapdragon 8 Gen 1"
+                ],
+                [
+                    "RAM:",
+                    "3 GB"
+                ],
+                [
+                    "Dung lượng lưu trữ:",
+                    "64 GB"
+                ],
+                [
+                    "Kết nối:",
+                    "Nghe gọi qua FaceTime"
+                ],
+                [
+                    "Pin, Sạc:",
+                    "32.4 Wh (~ 8600 mAh), 20 W"
+                ]
+            ]
         }
     ],
     "productsLaptop": [
@@ -994,7 +1450,66 @@
             ],
             "cost_sale": "31.990.000đ",
             "percent": "-12%",
-            "cost_current": "27.990.000đ"
+            "cost_current": "27.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-2-1.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-3.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-4-1.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-5.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-11.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-12.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-13.jpg",
+                "../imgDetailsProduct/lenovo-gaming-legion-5-15ach6-r7-82jw00kmvn-14.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 2,
@@ -1006,7 +1521,66 @@
             ],
             "cost_sale": "27.990.000đ",
             "percent": "-6%",
-            "cost_current": "26.090.000đ"
+            "cost_current": "26.090.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-1.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-xy-2.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-3.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-5.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-4.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-6.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-8.jpg",
+                "../imgDetailsProduct/lenovo-ideapad-5-pro-16ihu6-i5-82l9004xvn-9.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 3,
@@ -1018,7 +1592,66 @@
             ],
             "cost_sale": "29.990.000đ",
             "percent": "",
-            "cost_current": "29.430.000đ"
+            "cost_current": "29.430.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-1-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-2-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-3-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-4-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-5-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-6-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-7-1.jpg",
+                "../imgDetailsProduct/asus-vivobook-pro-15-k6502z-i5-ma025w-15.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 4,
@@ -1030,7 +1663,66 @@
             ],
             "cost_sale": "24.590.000đ",
             "percent": "",
-            "cost_current": "24.190.000đ"
+            "cost_current": "24.190.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-1.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-2.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-3.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-4.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-6.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-7.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-10.jpg",
+                "../imgDetailsProduct/hp-pavilion-15-eg2034tx-i7-6k780pa-ab-12.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 5,
@@ -1042,7 +1734,66 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "28.990.000đ"
+            "cost_current": "28.990.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-1-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-2-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-3-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-4-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-5-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-6-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-7-1.jpg",
+                "../imgDetailsProduct/acer-swift-x-sfx16-51g-516q-i5-nxayksv002-14.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 6,
@@ -1054,7 +1805,66 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "23.490.000đ"
+            "cost_current": "23.490.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-1.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-xy-2.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-xy-3.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-ab-4.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-5.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-6.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-7.jpg",
+                "../imgDetailsProduct/msi-gaming-gf63-thin-11ud-i5-649vn-xy-11.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 7,
@@ -1066,7 +1876,66 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "28.490.000đ"
+            "cost_current": "28.490.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-1-1.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-2-1.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-3-1.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-4-1.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-5-1.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-6-1.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-7.jpg",
+                "../imgDetailsProduct/dell-inspiron-16-5620-i5-n6i5003w1-13.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         },
         {
             "id": 8,
@@ -1078,7 +1947,63 @@
             ],
             "cost_sale": "66.990.000đ",
             "percent": "-20%",
-            "cost_current": "53.590.000đ"
+            "cost_current": "53.590.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/apple-macbook-pro-14-m1-pro-2021-10-core-cpu-1.jpg",
+                "../imgDetailsProduct/apple-macbook-pro-14-m1-pro-2021-10-core-cpu-2.jpg",
+                "../imgDetailsProduct/apple-macbook-pro-14-m1-pro-2021-10-core-cpu-3.jpg",
+                "../imgDetailsProduct/apple-macbook-pro-14-m1-pro-2021-10-core-cpu-4.jpg",
+                "../imgDetailsProduct/apple-macbook-pro-14-m1-pro-2021-10-core-cpu-4-05.jpg"
+            ],
+            "pr_content": [
+                "Mua online thêm quà: Tặng Tai nghe chụp tai Gaming MozardX DS904 7.1 Đen",
+                "Mua online thêm quà: Tặng Chuột Có dây Gaming Rapoo VT200 Đen",
+                "Balo Lenovo Legion Gaming",
+                "Mua Microsoft Office chỉ từ 990.000đ",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "CPU:",
+                    "Ryzen, 75800H, 3.2GHz"
+                ],
+                [
+                    "RAM:",
+                    "8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz"
+                ],
+                [
+                    "Ổ cứng:",
+                    "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)"
+                ],
+                [
+                    "Màn hình:",
+                    "15.6', Full HD (1920 x 1080), 165Hz"
+                ],
+                [
+                    "Card màn hình:",
+                    "Card rời, RTX 3050Ti 4GB"
+                ],
+                [
+                    "Cổng kết nối:",
+                    "LAN (RJ45), 1 x USB 3.2 (Always on), 3 x USB 3.2, 2 x USB Type-C, HDMI, Jack tai nghe 3.5 mm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Hệ điều hành:",
+                    "Windows 11 Home SL"
+                ],
+                [
+                    "Thiết kế:",
+                    "Vỏ nhựa"
+                ],
+                [
+                    "Kích thước, khối lượng:",
+                    "Dài 362.56 mm - Rộng 260.61 mm - Dày 25.75 mm - Nặng 2.4 kg"
+                ]
+            ]
         }
     ],
     "productsClock": [
@@ -1091,18 +2016,114 @@
             ],
             "cost_sale": "",
             "percent": "",
-            "cost_current": "25.800.000đ"
+            "cost_current": "25.800.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/movado-0607473-nam-1-org.jpg",
+                "../imgDetailsProduct/movado-0607473-nam-2-org.jpg",
+                "../imgDetailsProduct/movado-0607473-nam-3-org.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da tổng hợp"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thuỵ Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "MOVADO"
+                ]
+            ]
         },
         {
             "id": 2,
             "name": "FREDERIQUE CONSTANT",
-            "img": "./imgClock/frederique-constant-fc-335mc4p6b2-nam-300x300.jpg",
+            "img": "./imgClock/frederique-constant-fc-303v5b2b-nam-1-org.jpg",
             "item": [
                 "Classics - Heart Beat Moonphase"
             ],
             "cost_sale": "56.490.000đ",
             "percent": "-15%",
-            "cost_current": "48.016.000đ"
+            "cost_current": "48.016.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/frederique-constant-fc-303v5b2b-nam-1-org.jpg",
+                "../imgDetailsProduct/frederique-constant-fc-303v5b2b-nam-2-org.jpg",
+                "../imgDetailsProduct/frederique-constant-fc-303v5b2b-nam-3-3-org.jpg",
+                "../imgDetailsProduct/frederique-constant-fc-303v5b2b-nam-4-org.jpg",
+                "../imgDetailsProduct/frederique-constant-fc-303v5b2b-nam-5-org.jpg"
+            ],
+            "pr_content": [
+                "ĐỒNG HỒ KIM NỮ DÂY CERAMIC DKNY NY2915 TRẮNG - IMEI",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Thép không gỉ"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thuỵ Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "FREDERIQUE CONSTANT"
+                ]
+            ]
         },
         {
             "id": 3,
@@ -1113,7 +2134,55 @@
             ],
             "cost_sale": "31.540.000đ",
             "percent": "-15%",
-            "cost_current": "26.809.000đ"
+            "cost_current": "26.809.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/ernest-borel-lgr6002-422rd-nu-1-1.jpg",
+                "../imgDetailsProduct/ernest-borel-lgr6002-422rd-nu-2-1.jpg",
+                "../imgDetailsProduct/ernest-borel-lgr6002-422rd-nu-3-1.jpg",
+                "../imgDetailsProduct/ernest-borel-lgr6002-422rd-nu-5.jpg"
+            ],
+            "pr_content": [
+                "ĐỒNG HỒ KIM NỮ DÂY KIM LOẠI DKNY NY2947 VÀNG HỒNG - IMEI",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nữ"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "31 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da bò"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "5 ATM - Đi mưa, tắm"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thuỵ Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "ERNEST BOREL."
+                ]
+            ]
         },
         {
             "id": 4,
@@ -1124,7 +2193,54 @@
             ],
             "cost_sale": "31.312.000đ",
             "percent": "-20%",
-            "cost_current": "25.049.000đ"
+            "cost_current": "25.049.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/titoni-83908-s-690-nam-2.jpg",
+                "../imgDetailsProduct/titoni-83908-s-690-nam-3.jpg",
+                "../imgDetailsProduct/titoni-83908-s-690-nam-4.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "46 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Thép không gỉ"
+                ],
+                [
+                    "Bộ máy:",
+                    "Năng lượng ánh sáng"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thụy Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "EDIFICE CASIO"
+                ]
+            ]
         },
         {
             "id": 5,
@@ -1135,7 +2251,56 @@
             ],
             "cost_sale": "11.228.000₫",
             "percent": "-25%",
-            "cost_current": "8.421.000₫"
+            "cost_current": "8.421.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/edifice-ecb-s100hg-1adf-nam-2-1.jpg",
+                "../imgDetailsProduct/edifice-ecb-s100hg-1adf-nam-3.jpg",
+                "../imgDetailsProduct/edifice-ecb-s100hg-1adf-nam-7.jpg",
+                "../imgDetailsProduct/edifice-ecb-s100hg-1adf-nam-8.jpg",
+                "../imgDetailsProduct/edifice-ecb-s100hg-1adf-nam-6.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "46 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Thép không gỉ"
+                ],
+                [
+                    "Bộ máy:",
+                    "Năng lượng ánh sáng"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Nhật Bản"
+                ],
+                [
+                    "Hãng:",
+                    "EDIFICE CASIO"
+                ]
+            ]
         },
         {
             "id": 6,
@@ -1146,7 +2311,55 @@
             ],
             "cost_sale": "12.600.000₫",
             "percent": "-25%",
-            "cost_current": "9.450.000₫"
+            "cost_current": "9.450.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/citizen-nj0155-87e-nam-1-1.jpg",
+                "../imgDetailsProduct/citizen-nj0155-87e-nam-2.jpg",
+                "../imgDetailsProduct/citizen-nj0155-87e-nam-3.jpg",
+                "../imgDetailsProduct/citizen-nj0155-87e-nam-5.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da tổng hợp"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thuỵ Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "MOVADO"
+                ]
+            ]
         },
         {
             "id": 7,
@@ -1157,7 +2370,54 @@
             ],
             "cost_sale": "9.985.000₫",
             "percent": "-25%",
-            "cost_current": "7.488.000₫"
+            "cost_current": "7.488.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/citizen-nj0133-12e-nam-1.jpeg",
+                "../imgDetailsProduct/citizen-nj0133-12e-nam-2.jpg",
+                "../imgDetailsProduct/citizen-nj0133-12e-nam-3.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da tổng hợp"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thuỵ Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "MOVADO"
+                ]
+            ]
         },
         {
             "id": 8,
@@ -1168,7 +2428,54 @@
             ],
             "cost_sale": "8.800.000₫",
             "percent": "-25%",
-            "cost_current": "6.600.000₫"
+            "cost_current": "6.600.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/orient-ra-aa0b04r19b-1.jpg",
+                "../imgDetailsProduct/orient-ra-aa0b04r19b-2.jpg",
+                "../imgDetailsProduct/orient-ra-aa0b04r19b-3-1.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da tổng hợp"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Nhật Bản"
+                ],
+                [
+                    "Hãng:",
+                    "ORIENT"
+                ]
+            ]
         },
         {
             "id": 9,
@@ -1179,7 +2486,54 @@
             ],
             "cost_sale": "8.000.000₫",
             "percent": "-25%",
-            "cost_current": "6.000.000đ"
+            "cost_current": "6.000.000đ",
+            "imgdetail": [
+                "../imgDetailsProduct/orient-ra-aa0b05r19b-1.jpg",
+                "../imgDetailsProduct/orient-ra-aa0b05r19b-2.jpg",
+                "../imgDetailsProduct/orient-ra-aa0b05r19b-3-1.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da tổng hợp"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Nhật Bản"
+                ],
+                [
+                    "Hãng:",
+                    "ORIENT"
+                ]
+            ]
         },
         {
             "id": 10,
@@ -1190,7 +2544,54 @@
             ],
             "cost_sale": "11.490.000₫",
             "percent": "-25%",
-            "cost_current": "8.617.000₫"
+            "cost_current": "8.617.000₫",
+            "imgdetail": [
+                "../imgDetailsProduct/orient-ra-as0103a-nam-1-org.jpg",
+                "../imgDetailsProduct/orient-ra-as0103a-nam-2-org.jpg",
+                "../imgDetailsProduct/ra-as0103a10b-org.jpg"
+            ],
+            "pr_content": [
+                "Tai nghe Bluetooth AirPods 2 Apple MV7N2 Trắng - Imei",
+                "Giảm 5% gói Bảo hiểm rơi vỡ 6 tháng"
+            ],
+            "parameter": [
+                [
+                    "Đối tượng sử dụng:",
+                    "Nam"
+                ],
+                [
+                    "Đường kính mặt:",
+                    "40 mm"
+                ],
+                [
+                    "Chất liệu mặt kính:",
+                    "Kính Sapphire"
+                ],
+                [
+                    "Chất liệu dây:",
+                    "Da tổng hợp"
+                ],
+                [
+                    "Bộ máy:",
+                    "Cơ tự động (Automatic)"
+                ],
+                [
+                    "Chống nước:",
+                    "3 ATM - Rửa tay, đi mưa"
+                ],
+                [
+                    "Đặc biệt:",
+                    "Có đèn bàn phím"
+                ],
+                [
+                    "Thương hiệu:",
+                    "Thuỵ Sĩ"
+                ],
+                [
+                    "Hãng:",
+                    "MOVADO"
+                ]
+            ]
         }
     ]
 }

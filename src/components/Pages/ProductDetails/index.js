@@ -13,6 +13,9 @@ function ProductDetails(props) {
     // const [countPrev, setCountPrev] = useState(0)
     const slide = useRef()
     let lengthImgdetail;
+    useEffect(() => {
+        window.scrollTo(0, 0)
+    }, [])
     const handleNext = () => {
         count--
         if (count < -lengthImgdetail + 1) {
@@ -70,7 +73,7 @@ function ProductDetails(props) {
 
                                         <div className={clsx(styles.box_slide)}>
                                             <div ref={slide} className={clsx(styles.slide)}>
-                                                {product.imgdetail.map((img, index) => { return <img src={img} key={index} className={clsx(styles.img)} /> })}
+                                                {product.imgdetail.map((img, index) => { return (<div className={clsx(styles.clock)}><img src={img} key={index} className={clsx(styles.img)} /> </div>) })}
                                             </div>
                                         </div>
                                         <button onClick={() => { handlePrev() }} className={clsx(styles.prev)}>
