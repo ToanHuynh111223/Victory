@@ -5,12 +5,14 @@ import Navbar from "../../Layout/Navbar";
 import Footer from "../../Layout/Footer";
 import { useParams } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBoxOpen, faChevronLeft, faChevronRight, faRotateLeft, faShareFromSquare, faShield, faStar, faThumbsUp, faUserShield } from '@fortawesome/free-solid-svg-icons';
+import { faBoxOpen, faChevronLeft, faChevronRight, faRotateLeft, faShareFromSquare, faShield, faStar, faThumbsUp, faUserShield, faXmark } from '@fortawesome/free-solid-svg-icons';
 import { useEffect, useRef, useState } from 'react';
 function ProductDetails(props) {
-    const { id } = useParams()
+    const [addProduct, getAddProduct] = useState()
+    const { id } = useParams();
+    const [numberProduct, setNumberProduct] = useState(1)
+    const close = useRef();
     let count = 0
-    // const [countPrev, setCountPrev] = useState(0)
     const slide = useRef()
     let lengthImgdetail;
     useEffect(() => {
@@ -23,7 +25,6 @@ function ProductDetails(props) {
         }
         slide.current.style.transform = `translateX(calc(${count}*(100%)))`;
     }
-
     const handlePrev = () => {
         count++;
         if (count > 0) {
@@ -31,15 +32,38 @@ function ProductDetails(props) {
         }
         slide.current.style.transform = `translateX(calc(${count}*100%))`;
     }
+    const handleClosePopup = () => {
 
+        close.current.className = clsx(`${styles.popup_detail} `)
+        setNumberProduct(1)
+    }
+    const handleOpenPopup = () => {
+        window.scrollTo(0, 0)
+        close.current.className = clsx(`${styles.popup_detail} ${styles.active} `)
+    }
+    const handleAddProduct = (product) => {
+        if (addProduct) {
+            props.setListCart((prev) => [...prev, addProduct])
+        }
+        else props.setListCart((prev) => [...prev, product])
+        close.current.className = clsx(`${styles.popup_detail} `)
+        setNumberProduct(1)
+        product.amount.push(numberProduct)
 
+    }
+    const handleDecreseNumberProduct = () => {
+        if (numberProduct > 1) {
 
+            setNumberProduct(numberProduct - 1)
+        } else setNumberProduct(1)
+    }
     return (
         <>
+
             <div className={clsx(styles.container)}>
 
                 <Header />
-                <Navbar />
+                <Navbar numberCart={props.numberCart} setNumberCart={props.setNumberCart} />
 
                 {props.clock.filter(product => `${product.id}${product.name}` === id).map((product, index) => {
                     lengthImgdetail = product.imgdetail.length
@@ -73,7 +97,7 @@ function ProductDetails(props) {
 
                                         <div className={clsx(styles.box_slide)}>
                                             <div ref={slide} className={clsx(styles.slide)}>
-                                                {product.imgdetail.map((img, index) => { return (<div className={clsx(styles.clock)}><img src={img} key={index} className={clsx(styles.img)} /> </div>) })}
+                                                {product.imgdetail.map((img, index) => { return (<div className={clsx(styles.clock)} key={index}><img src={img} key={index} className={clsx(styles.img)} /> </div>) })}
                                             </div>
                                         </div>
                                         <button onClick={() => { handlePrev() }} className={clsx(styles.prev)}>
@@ -147,10 +171,39 @@ function ProductDetails(props) {
                                             </div>
                                         </div>
                                     </div>
-                                    <button className={clsx(styles.block_buy)}>
+                                    <button className={clsx(styles.block_buy)} onClick={() => { handleOpenPopup() }}>
                                         Mua ngay
                                     </button>
                                 </div>
+                            </div>
+                        </div>
+                        <div ref={close} className={clsx(styles.popup_detail)}>
+                            <div className={clsx(styles.bg_detail)}></div>
+                            <div className={clsx(styles.choose_promo)}>
+                                <div onClick={() => { handleClosePopup() }} className={clsx(styles.close)}>
+                                    <FontAwesomeIcon icon={faXmark}></FontAwesomeIcon>
+                                </div>
+                                <div className={clsx(styles.name_pro)}>
+                                    <span className={clsx(styles.name_product)}>{product.name}</span>
+                                    <span className={clsx(styles.cost)}>{product.cost_current}
+                                        <strike>{product.cost_sale}</strike>
+                                    </span>
+                                </div>
+                                <div className={clsx(styles.img_box)}>
+                                    <div className={clsx(styles.img_pro)}>
+                                        <img src={`.${product.img}`} />
+                                    </div>
+                                </div>
+                                <div className={clsx(styles.choose_amount)}>
+                                    <span>Chọn số lượng: </span>
+                                    <div className={clsx(styles.choose_number)}>
+                                        <button className={clsx(styles.choose_minus)} onClick={() => handleDecreseNumberProduct()}>-</button>
+                                        <span className={clsx(styles.number)}>{numberProduct} </span>
+                                        <button className={clsx(styles.choose_plus)} onClick={() => setNumberProduct(numberProduct + 1)} >+</button>
+
+                                    </div>
+                                </div>
+                                <button className={clsx(styles.add_product)} onClick={() => { getAddProduct(product); handleAddProduct(product); }}>Thêm vào giỏ hàng</button>
                             </div>
                         </div>
                     </div>)
@@ -261,10 +314,39 @@ function ProductDetails(props) {
                                             </div>
                                         </div>
                                     </div>
-                                    <button className={clsx(styles.block_buy)}>
+                                    <button className={clsx(styles.block_buy)} onClick={() => { handleOpenPopup() }}>
                                         Mua ngay
                                     </button>
                                 </div>
+                            </div>
+                        </div>
+                        <div ref={close} className={clsx(styles.popup_detail)}>
+                            <div className={clsx(styles.bg_detail)}></div>
+                            <div className={clsx(styles.choose_promo)}>
+                                <div onClick={() => { handleClosePopup() }} className={clsx(styles.close)}>
+                                    <FontAwesomeIcon icon={faXmark}></FontAwesomeIcon>
+                                </div>
+                                <div className={clsx(styles.name_pro)}>
+                                    <span className={clsx(styles.name_product)}>{product.name}</span>
+                                    <span className={clsx(styles.cost)}>{product.cost_current}
+                                        <strike>{product.cost_sale}</strike>
+                                    </span>
+                                </div>
+                                <div className={clsx(styles.img_box)}>
+                                    <div className={clsx(styles.img_pro)}>
+                                        <img src={`.${product.img}`} />
+                                    </div>
+                                </div>
+                                <div className={clsx(styles.choose_amount)}>
+                                    <span>Chọn số lượng: </span>
+                                    <div className={clsx(styles.choose_number)}>
+                                        <button className={clsx(styles.choose_minus)} onClick={() => handleDecreseNumberProduct()}>-</button>
+                                        <span className={clsx(styles.number)}>{numberProduct} </span>
+                                        <button className={clsx(styles.choose_plus)} onClick={() => setNumberProduct(numberProduct + 1)} >+</button>
+
+                                    </div>
+                                </div>
+                                <button className={clsx(styles.add_product)} onClick={() => { getAddProduct(product); handleAddProduct(product); }}>Thêm vào giỏ hàng</button>
                             </div>
                         </div>
                     </div>)
@@ -375,10 +457,39 @@ function ProductDetails(props) {
                                             </div>
                                         </div>
                                     </div>
-                                    <button className={clsx(styles.block_buy)}>
+                                    <button className={clsx(styles.block_buy)} onClick={() => { handleOpenPopup() }}>
                                         Mua ngay
                                     </button>
                                 </div>
+                            </div>
+                        </div>
+                        <div ref={close} className={clsx(styles.popup_detail)}>
+                            <div className={clsx(styles.bg_detail)}></div>
+                            <div className={clsx(styles.choose_promo)}>
+                                <div onClick={() => { handleClosePopup() }} className={clsx(styles.close)}>
+                                    <FontAwesomeIcon icon={faXmark}></FontAwesomeIcon>
+                                </div>
+                                <div className={clsx(styles.name_pro)}>
+                                    <span className={clsx(styles.name_product)}>{product.name}</span>
+                                    <span className={clsx(styles.cost)}>{product.cost_current}
+                                        <strike>{product.cost_sale}</strike>
+                                    </span>
+                                </div>
+                                <div className={clsx(styles.img_box)}>
+                                    <div className={clsx(styles.img_pro)}>
+                                        <img src={`.${product.img}`} />
+                                    </div>
+                                </div>
+                                <div className={clsx(styles.choose_amount)}>
+                                    <span>Chọn số lượng: </span>
+                                    <div className={clsx(styles.choose_number)}>
+                                        <button className={clsx(styles.choose_minus)} onClick={() => handleDecreseNumberProduct()}>-</button>
+                                        <span className={clsx(styles.number)}>{numberProduct} </span>
+                                        <button className={clsx(styles.choose_plus)} onClick={() => setNumberProduct(numberProduct + 1)} >+</button>
+
+                                    </div>
+                                </div>
+                                <button className={clsx(styles.add_product)} onClick={() => { getAddProduct(product); handleAddProduct(product); }}>Thêm vào giỏ hàng</button>
                             </div>
                         </div>
                     </div>)
@@ -489,10 +600,39 @@ function ProductDetails(props) {
                                             </div>
                                         </div>
                                     </div>
-                                    <button className={clsx(styles.block_buy)}>
+                                    <button className={clsx(styles.block_buy)} onClick={() => { handleOpenPopup() }}>
                                         Mua ngay
                                     </button>
                                 </div>
+                            </div>
+                        </div>
+                        <div ref={close} className={clsx(styles.popup_detail)}>
+                            <div className={clsx(styles.bg_detail)}></div>
+                            <div className={clsx(styles.choose_promo)}>
+                                <div onClick={() => { handleClosePopup() }} className={clsx(styles.close)}>
+                                    <FontAwesomeIcon icon={faXmark}></FontAwesomeIcon>
+                                </div>
+                                <div className={clsx(styles.name_pro)}>
+                                    <span className={clsx(styles.name_product)}>{product.name}</span>
+                                    <span className={clsx(styles.cost)}>{product.cost_current}
+                                        <strike>{product.cost_sale}</strike>
+                                    </span>
+                                </div>
+                                <div className={clsx(styles.img_box)}>
+                                    <div className={clsx(styles.img_pro)}>
+                                        <img src={`.${product.img}`} />
+                                    </div>
+                                </div>
+                                <div className={clsx(styles.choose_amount)}>
+                                    <span>Chọn số lượng: </span>
+                                    <div className={clsx(styles.choose_number)}>
+                                        <button className={clsx(styles.choose_minus)} onClick={() => handleDecreseNumberProduct()}>-</button>
+                                        <span className={clsx(styles.number)}>{numberProduct} </span>
+                                        <button className={clsx(styles.choose_plus)} onClick={() => setNumberProduct(numberProduct + 1)} >+</button>
+
+                                    </div>
+                                </div>
+                                <button className={clsx(styles.add_product)} onClick={() => { getAddProduct(product); handleAddProduct(product); }}>Thêm vào giỏ hàng</button>
                             </div>
                         </div>
                     </div>)
@@ -503,5 +643,4 @@ function ProductDetails(props) {
 
     );
 }
-
 export default ProductDetails;

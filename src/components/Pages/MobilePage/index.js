@@ -12,7 +12,7 @@ function MobilePage(props) {
             <div className={clsx(styles.container)}>
 
                 <Header />
-                <Navbar />
+                <Navbar numberCart={props.numberCart} setNumberCart={props.setNumberCart} />
                 <New src='./imgNew/800-200-800x200-63.png' />
                 <Mobile mobile={props.mobile} />
             </div>

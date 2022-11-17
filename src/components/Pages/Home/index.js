@@ -12,7 +12,7 @@ function Home(props) {
             <div className={clsx(styles.container)}>
 
                 <Header />
-                <Navbar />
+                <Navbar numberCart={props.numberCart} />
                 <News />
                 <Product clock={props.clock} laptop={props.laptop} mobile={props.mobile} tablet={props.tablet} />
 

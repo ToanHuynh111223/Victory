@@ -12,7 +12,7 @@ function TabletPage(props) {
             <div className={clsx(styles.container)}>
 
                 <Header />
-                <Navbar />
+                <Navbar numberCart={props.numberCart} setNumberCart={props.setNumberCart} />
                 <New src='./imgNew/800-200-800x200-45.png' />
                 <Tablet tablet={props.tablet} />
             </div>

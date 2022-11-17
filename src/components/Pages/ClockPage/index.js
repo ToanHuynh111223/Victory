@@ -12,7 +12,7 @@ function ClockPage(props) {
             <div className={clsx(styles.container)}>
 
                 <Header />
-                <Navbar />
+                <Navbar numberCart={props.numberCart} setNumberCart={props.setNumberCart} />
                 <New src='./imgNew/DCC8CCF7-A8BB-4741-86EF-0DCB5A653521-1200x300.png' />
                 <Clock clock={props.clock} />
             </div>

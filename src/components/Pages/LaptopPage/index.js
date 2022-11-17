@@ -12,7 +12,7 @@ function LaptopPage(props) {
             <div className={clsx(styles.container)}>
 
                 <Header />
-                <Navbar />
+                <Navbar numberCart={props.numberCart} setNumberCart={props.setNumberCart} />
                 <New src='./imgNew/banner-cao-cao-desktop-1200x200.png' />
                 <Laptop laptop={props.laptop} />
             </div>

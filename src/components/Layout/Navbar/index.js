@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCartShopping } from '@fortawesome/free-solid-svg-icons';
-function Navbar() {
+function Navbar(props) {
 
     return (
         <div className={clsx(styles.navbar)}>
@@ -30,8 +30,7 @@ function Navbar() {
             </ul>
             <div className={clsx(styles.cart)}>
                 <Link to='/Cart'>
-
-                    <div className={clsx(styles.circle)}>10</div>
+                    <div className={clsx(styles.circle)}>{props.numberCart}</div>
                     <FontAwesomeIcon icon={faCartShopping} className={clsx(styles.cart_icon)} />
                 </Link>
             </div>

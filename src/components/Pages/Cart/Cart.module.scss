@@ -1,0 +1,203 @@
+$red-color: #D61C4E;
+$yellow-color: #FEDB39;
+$blue-color: #1CD6CE;
+
+.container {
+    margin: 0 60px;
+}
+
+.content {
+    margin: 30px 0 90px;
+}
+
+.mycart {
+    span {
+        color: $red-color;
+        font-size: 0.8rem;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -4px;
+    margin-right: -4px;
+
+    .col {
+        padding-left: 4px;
+        padding-right: 4px;
+
+    }
+
+    .col_7 {
+        flex: 0 0 58.33333%;
+        max-width: 58.33333%;
+    }
+
+    .col_5 {
+        flex: 0 0 41.66667%;
+        max-width: 41.66667%;
+    }
+
+
+
+    .list_product {
+        .list {
+            list-style: none;
+        }
+
+        .item {
+            display: flex;
+            padding: 5px;
+            margin: 10px;
+            border: 1px solid #e0e0e0;
+
+            .image {
+                float: left;
+                width: 15%;
+
+                img {
+                    width: 75px;
+                    margin: auto;
+                }
+            }
+
+            .info {
+                display: block;
+
+                width: 65%;
+
+                span {
+                    font-size: 0.8rem;
+                }
+            }
+
+            .cost {
+                display: flex;
+                width: 25%;
+                flex-direction: column;
+
+                strike {
+                    font-size: 0.7rem;
+                    color: grey;
+                }
+
+                span {
+                    font-size: 0.7rem;
+                    color: red;
+                }
+            }
+
+            .choose_number {
+                display: flex;
+                width: 100px;
+                margin-top: 10px;
+
+                span {
+                    font-size: 0.7rem;
+                    margin: auto;
+                    color: grey;
+                    padding-left: 10px;
+                    cursor: pointer;
+                }
+
+                .choose_minus {
+                    padding: 2px;
+                    display: inline-block;
+                    font-size: 20px;
+                    outline: none;
+                    float: right;
+                    border: 1px solid #dfdfdf;
+                    background: #fff;
+                    color: #288ad6;
+                    width: 32%;
+                    height: 30px;
+                    position: relative;
+                    cursor: pointer;
+                    border-radius: 2px;
+                }
+
+                .number {
+                    outline: none;
+                    font-size: 0.7rem;
+                    padding: 4px;
+                    color: #333;
+                    width: 33%;
+                    height: 30px;
+                    text-align: center;
+                    border: 1px solid #dfdfdf;
+                }
+
+                .choose_plus {
+                    padding: 2px;
+                    display: inline-block;
+                    font-size: 20px;
+                    outline: none;
+                    float: right;
+                    border: 1px solid #dfdfdf;
+                    background: #fff;
+                    color: #288ad6;
+                    width: 32%;
+                    height: 30px;
+                    position: relative;
+                    cursor: pointer;
+                    border-radius: 2px;
+                }
+            }
+        }
+    }
+
+    .order {
+        width: 100%;
+        border: 1px solid #e0e0e0;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        padding: 8px;
+
+        .order_name {
+            font-size: 0.8rem;
+            width: 100%;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .money {
+            margin: 20px 0 40px;
+
+            .temporary_money {
+                margin-bottom: 10px;
+
+                span {
+                    font-size: 0.8rem;
+                }
+            }
+
+            .total_money {
+                margin-bottom: 10px;
+
+                span {
+                    font-size: 0.8rem;
+
+                    &:last-child {
+                        color: $red-color
+                    }
+                }
+            }
+        }
+
+        .pay {
+            display: block;
+            font-size: 0.7rem;
+            overflow: hidden;
+            color: #fff;
+            text-align: center;
+            height: 50px;
+            margin: 10px auto;
+            width: 100%;
+            border-radius: 4px;
+            border: 0;
+            cursor: pointer;
+            background: linear-gradient(180deg, #f79429, #f7712e);
+        }
+    }
+}
