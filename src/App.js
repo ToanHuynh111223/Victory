@@ -17,30 +17,31 @@ function App() {
   const [tablet, getTablet] = useState([])
   const [numberCart, setNumberCart] = useState(0)
   const [listCart, setListCart] = useState([])
+  let port = process.env.PORT || 3000;
   useEffect(() => {
 
-    fetch('http://localhost:3000/productsClock')
+    fetch(`http://localhost:${port}/productsClock`)
       .then((response) => response.json())
       .then((data) => getClock(data));
 
   }, [])
   useEffect(() => {
 
-    fetch('http://localhost:3000/productsLaptop')
+    fetch(`http://localhost:${port}/productsLaptop`)
       .then((response) => response.json())
       .then((data) => getLaptop(data));
 
   }, [])
   useEffect(() => {
 
-    fetch('http://localhost:3000/productsMobile')
+    fetch(`http://localhost:${port}/productsMobile`)
       .then((response) => response.json())
       .then((data) => getMobile(data));
 
   }, [])
   useEffect(() => {
 
-    fetch('http://localhost:3000/productsTablet')
+    fetch(`http://localhost:${port}/productsTablet`)
       .then((response) => response.json())
       .then((data) => getTablet(data));
 
