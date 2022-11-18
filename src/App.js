@@ -19,28 +19,28 @@ function App() {
   const [listCart, setListCart] = useState([])
   useEffect(() => {
 
-    fetch('http://localhost:5000/productsClock')
+    fetch('http://localhost:3000/productsClock')
       .then((response) => response.json())
       .then((data) => getClock(data));
 
   }, [])
   useEffect(() => {
 
-    fetch('http://localhost:5000/productsLaptop')
+    fetch('http://localhost:3000/productsLaptop')
       .then((response) => response.json())
       .then((data) => getLaptop(data));
 
   }, [])
   useEffect(() => {
 
-    fetch('http://localhost:5000/productsMobile')
+    fetch('http://localhost:3000/productsMobile')
       .then((response) => response.json())
       .then((data) => getMobile(data));
 
   }, [])
   useEffect(() => {
 
-    fetch('http://localhost:5000/productsTablet')
+    fetch('http://localhost:3000/productsTablet')
       .then((response) => response.json())
       .then((data) => getTablet(data));
 
