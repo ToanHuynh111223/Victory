@@ -29,8 +29,7 @@ function Product(props) {
                     return value
                 })
             }
-            <div onClick={() => { handleAddProduct(), setCount(count + 1) }} className={clsx(styles.wrapper)}>
-
+            <div onClick={() => { handleAddProduct(); setCount(count + 1) }} className={clsx(styles.wrapper)}>
                 <button className={clsx(styles.btn)}>
                     <span ref={span} className={clsx(styles.text)}>Xem thêm</span>
                     <FontAwesomeIcon className={clsx(styles.icon)} icon={faCaretDown}></FontAwesomeIcon>
