@@ -1,14 +1,21 @@
 import clsx from "clsx";
 import styles from "./Tablet.module.scss"
 import { Link } from "react-router-dom";
-
+import { useState, useEffect } from "react";
 
 function Tablet(props) {
+    const [tablet, getTablet] = useState([])
+    useEffect(() => {
 
+        fetch('https://hickory-olive-countess.glitch.me/productsTablet')
+            .then((response) => response.json())
+            .then((data) => getTablet(data));
+
+    }, [])
     return (
         <div className={clsx(styles.container)}>
             <div className={clsx(styles.row)}>
-                {props.tablet.map((product) => {
+                {tablet.map((product) => {
                     return (
                         <div key={product.id} className={clsx(styles.col, styles.col_3)}>
                             <Link to={`/ProductDetails/${product.id}${product.name}`} >

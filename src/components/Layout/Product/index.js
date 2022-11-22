@@ -8,12 +8,14 @@ import Laptop from "./Laptop";
 import Clock from "./Clock";
 import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
 function Product(props) {
+    // console.log(props.clock, props.laptop, props.mobile, props.tablet)
     const [products, setProducts] = useState([])
     const [product, setProduct] = useState([<Laptop laptop={props.laptop} />, <Clock clock={props.clock} />])
     const [count, setCount] = useState(0)
     const span = useRef()
     const handleAddProduct = () => {
         setProducts((prev) => [...prev, product[count]])
+        setCount(count + 1)
         if (count > product.length - 1) {
             span.current.innerText = 'Đã hết sản phẩm'
         }
@@ -27,9 +29,10 @@ function Product(props) {
             {
                 products.map((value, index) => {
                     return value
-                })
+                }
+                )
             }
-            <div onClick={() => { handleAddProduct(); setCount(count + 1) }} className={clsx(styles.wrapper)}>
+            <div onClick={() => { handleAddProduct() }} className={clsx(styles.wrapper)}>
                 <button className={clsx(styles.btn)}>
                     <span ref={span} className={clsx(styles.text)}>Xem thêm</span>
                     <FontAwesomeIcon className={clsx(styles.icon)} icon={faCaretDown}></FontAwesomeIcon>

@@ -1,14 +1,23 @@
 import clsx from "clsx";
 import styles from "./Laptop.module.scss"
 import { Link } from "react-router-dom";
-
+import { useState, useEffect } from "react";
 
 function Laptop(props) {
+    const [laptop, getLaptop] = useState([])
+    useEffect(() => {
 
+        fetch('https://hickory-olive-countess.glitch.me/productsLaptop')
+            .then((response) => response.json())
+            .then((data) => getLaptop(data));
+
+    }, [])
     return (
+
+
         <div className={clsx(styles.container)}>
             <div className={clsx(styles.row)}>
-                {props.laptop.map((product) => {
+                {laptop.map((product) => {
                     return (
                         <div key={product.id} className={clsx(styles.col, styles.col_3)}>
                             <Link to={`/ProductDetails/${product.id}${product.name}`} >
@@ -41,6 +50,7 @@ function Laptop(props) {
 
             </div>
         </div>
+
     );
 }
 

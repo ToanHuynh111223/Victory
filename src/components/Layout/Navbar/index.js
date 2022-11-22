@@ -9,15 +9,12 @@ function Navbar(props) {
         <div className={clsx(styles.navbar)}>
             <ul className={clsx(styles.list)}>
                 <Link to="/" style={{ textDecoration: "none" }}>
-
                     <li className={clsx(styles.item)}>All</li>
                 </Link>
                 <Link to="/MobilePage" style={{ textDecoration: "none" }}>
-
                     <li className={clsx(styles.item)}>Mobile</li>
                 </Link>
                 <Link to="/TabletPage" style={{ textDecoration: "none" }}>
-
                     <li className={clsx(styles.item)}>Tablet</li>
                 </Link>
                 <Link to="/LaptopPage" style={{ textDecoration: "none" }}>

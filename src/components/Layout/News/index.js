@@ -5,7 +5,7 @@ function News() {
     const [dataImage, setdataImage] = useState([])
     useEffect(() => {
 
-        fetch('http://localhost:3001/imageNew')
+        fetch('https://hickory-olive-countess.glitch.me/imageNew')
             .then((response) => response.json())
             .then((data) => setdataImage(data));
 

@@ -17,31 +17,30 @@ function App() {
   const [tablet, getTablet] = useState([])
   const [numberCart, setNumberCart] = useState(0)
   const [listCart, setListCart] = useState([])
-  let port = process.env.PORT || 3000;
   useEffect(() => {
 
-    fetch(`http://localhost:${port}/productsClock`)
+    fetch('https://hickory-olive-countess.glitch.me/productsClock')
       .then((response) => response.json())
       .then((data) => getClock(data));
 
   }, [])
   useEffect(() => {
 
-    fetch(`http://localhost:${port}/productsLaptop`)
+    fetch('https://hickory-olive-countess.glitch.me/productsLaptop')
       .then((response) => response.json())
       .then((data) => getLaptop(data));
 
   }, [])
   useEffect(() => {
 
-    fetch(`http://localhost:${port}/productsMobile`)
+    fetch('https://hickory-olive-countess.glitch.me/productsMobile')
       .then((response) => response.json())
       .then((data) => getMobile(data));
 
   }, [])
   useEffect(() => {
 
-    fetch(`http://localhost:${port}/productsTablet`)
+    fetch('https://hickory-olive-countess.glitch.me/productsTablet')
       .then((response) => response.json())
       .then((data) => getTablet(data));
 
